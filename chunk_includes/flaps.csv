@@ -1,0 +1,5 @@
+Type,flapChoose,notFlapChoose,Status
+beetleF.m4a,Correct!,Incorrect.,a flap
+beetleT.m4a,Incorrect.,Correct!,not a flap
+letterF.m4a,Correct!,Incorrect.,a flap
+letterT.m4a,Incorrect.,Correct!,not a flap

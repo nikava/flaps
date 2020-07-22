@@ -1,5 +1,9 @@
-Type,flapChoose,notFlapChoose,Status
-beetleF.m4a,Correct!,Incorrect.,a flap
-beetleT.m4a,Incorrect.,Correct!,not a flap
-letterF.m4a,Correct!,Incorrect.,a flap
-letterT.m4a,Incorrect.,Correct!,not a flap
+Type,flapChoose,notFlapChoose,Status,Word
+adequateT.mp3,Correct!,Incorrect.,a flap,a<b>d</b>equate
+bitterT.mp3,Correct!,Correct!,a flap,bi<b>tt</b>er
+daddyT.mp3,Correct!,Incorrect.,a flap,da<b>dd</b>y
+mottoT.mp3,Correct!,Incorrect.,a flap,mo<b>tt</b>o
+italicsT.mp3,Incorrect.,Correct!,not a flap,i<b>t</b>alics
+planetaryT.mp3,Incorrect.,Correct!,not a flap,plane<b>t</b>ary
+productT.mp3,Incorrect.,Correct!,not a flap,pro<b>d</b>uct
+traditionT.mp3,Incorrect.,Correct!,not a flap,tra<b>d</b>ition
